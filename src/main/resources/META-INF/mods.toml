@@ -29,3 +29,9 @@ This is an example of how a mod may add additional effects to tetra
     versionRange="[1.16.4,1.17)"
     ordering="NONE"
     side="BOTH"
+[[dependencies.examplemod]]
+    modId="tetra"
+    mandatory=true
+    versionRange="[3.3.0,)"
+    ordering="NONE"
+    side="BOTH"
