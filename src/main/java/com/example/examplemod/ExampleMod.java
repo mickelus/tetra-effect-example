@@ -7,5 +7,6 @@ import net.minecraftforge.fml.common.Mod;
 public class ExampleMod {
     public ExampleMod() {
         MinecraftForge.EVENT_BUS.register(this);
+        MinecraftForge.EVENT_BUS.register(new DodgeEffect());
     }
 }
