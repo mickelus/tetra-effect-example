@@ -1,0 +1,9 @@
+[
+    {
+        "key": "examplemod/wind_blessing",
+        "level": 0,
+        "effects": {
+            "examplemod:dodge": 30
+        }
+    }
+]

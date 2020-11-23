@@ -1,0 +1,8 @@
+{
+    "tetra/schematic/examplemod/wind_blessing.name": "Wind blessing",
+    "tetra/schematic/examplemod/wind_blessing.slot1": "Feather",
+    "tetra/schematic/examplemod/wind_blessing.description": "Using a feather, infuse the hilt with the power of the wind. Gives a chance to dodge incoming attacks.",
+
+    "tetra.improvement.examplemod/wind_blessing.name": "Wind blessing",
+    "tetra.improvement.examplemod/wind_blessing.description": "Gives a chance to dodge incoming attacks"
+}
